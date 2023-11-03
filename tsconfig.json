@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "CommonJS",
+    "outDir": "../dist",
+    "esModuleInterop": true,
+    /* Type Checking */
+    "strict": true,                                 /* Enable all strict type-checking options. */
+    "skipLibCheck": true ,                                /* Skip type checking all .d.ts files. */
+    "strictPropertyInitialization": true,
+  }
+}
